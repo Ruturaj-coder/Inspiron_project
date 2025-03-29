@@ -5,7 +5,7 @@ This project is an AI-powered **Personalized Learning Platform** inspired by **A
 
 ## 🚀 Features
 
-### **1. Balvidya (Kindergarten - 1st Year)**
+### **1. Balvidya (Kindergarten - 1st Standard)**
 - **Sensory-Based Learning**: Real-time sense organ detection for interactive learning.
 - **AI-Powered Counting Assistant**: Engaging activities to teach numbers.
 - **Special Needs Support**: Custom learning experiences for **Dyslexia, ADHD, Autism**.
